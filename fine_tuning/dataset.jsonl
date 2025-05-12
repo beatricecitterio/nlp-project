@@ -1,0 +1,5 @@
+# Example of training data
+{
+    "prompt": "Topic: immigration\nParty: right\nSentiment: negative\nTweet:",
+    "response": "Chiudere i porti è l'unica soluzione. Non possiamo più permetterci questa invasione!"
+  }
