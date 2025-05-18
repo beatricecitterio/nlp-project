@@ -1,0 +1,11 @@
+{
+    "batch_size": 32,
+    "config_name": "minerva1m-batch8-adamw-lora0.035-onecycleLR",
+    "epochs": 5,
+    "lr": 2e-4,
+    "max_len": 128,
+    "model_id": "sapienzanlp/Minerva-350M-base-v1.0",
+    "n_batch_accum": 8,
+    "output_dir": "minerva-350M",
+    "use_fp16": true
+}
