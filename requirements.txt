@@ -1,0 +1,13 @@
+absl-py
+bitsandbytes
+evaluate
+transformers
+datasets
+nltk
+peft
+rouge_score
+sentencepiece
+torch
+tqdm
+trl
+wandb
