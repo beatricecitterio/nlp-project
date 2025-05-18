@@ -1,0 +1,16 @@
+Accuracy on test data: 0.7089
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.5432    0.8872    0.6738       390
+           1     0.9234    0.6887    0.7890      1102
+           2     0.3022    0.3778    0.3358       180
+           3     0.7983    0.7592    0.7782       245
+
+    accuracy                         0.7089      1917
+   macro avg     0.6418    0.6782    0.6442      1917
+weighted avg     0.7717    0.7089    0.7216      1917
+
+Saving results to CSV...
+Analysis complete! Results saved to 'test_results_numeric.csv' and 'confusion_matrix.png'

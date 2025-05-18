@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-df = pd.read_csv("next_batch_to_label.csv").reset_index(drop=True)
+df = pd.read_csv("next_batch_to_label.csv").reset_index(drop=True) # THIS FILE SHOULD STORE WHAT WE WANT TO LABEL NEXT
 
 tone_labels = [
     "Neutral / Informational",

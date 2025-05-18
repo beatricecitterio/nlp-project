@@ -7,4 +7,3 @@ Labeled samples: 400, Average uncertainty: 0.5066
 Labeled samples: 500, Average uncertainty: 0.3572
 Labeled samples: 600, Average uncertainty: 0.5708
 Labeled samples: 700, Average uncertainty: 0.2610
-Labeled samples: 700, Average uncertainty: 0.3551 # ho dovuto runnare di nuovo perchè non mi aveva salvato le cose
